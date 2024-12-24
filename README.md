@@ -17,15 +17,21 @@ How It Works
 Here’s a quick example to help you picture it:
 
 Imagine the server is like a teacher in a classroom, waiting for students to ask questions.
+
 The client is a student who raises their hand (connects) and starts asking a question (sending a message).
+
 The teacher (server) listens and replies.
+
 When the student is done (types exit), they leave the classroom, and the teacher waits for the next student.
 It’s as simple as that – a polite conversation between two entities! 🧑‍🏫🧑‍🎓
 
 
 Getting Started
+
 Run the server – it’s like the teacher taking their seat.
+
 Start the client – the student enters the classroom.
+
 Chat back and forth, and type exit to wrap it up.
 
 THANKS FOR READING !!
